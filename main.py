@@ -4,7 +4,7 @@ import pygame
 # initiate pygame and give permission 
 # to use pygame's functionality. 
 
-#update:01/12/2019 - 22:10h
+
 X = 500
 Y = 600
 screen = pygame.display.set_mode((X, Y))
