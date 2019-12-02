@@ -3,6 +3,9 @@ import pygame
 # activate the pygame library . 
 # initiate pygame and give permission 
 # to use pygame's functionality. 
+
+#update:01/12/2019 - 22:10h
+
 pygame.init() 
   
 # define the RGB value 
