@@ -24,7 +24,7 @@ display_surface = pygame.display.set_mode((X, Y ))
 pygame.display.set_caption('Primeiro Jogo em Python') 
   
 # create a surface object, image is drawn on it. 
-image = pygame.image.load(r'/Users/warleiklecius/Documents/PYTHON-ESTUDO/games/pong/images/supermario.jpg') 
+image = pygame.image.load(r'./images/supermario.jpg') 
   
 # infinite loop 
 while True : 
