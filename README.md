@@ -1,4 +1,4 @@
-# pygame_first_game
+# Meu primeiro jogo em Python
 my python codes
 
 
